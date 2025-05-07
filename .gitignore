@@ -1,0 +1,47 @@
+# Maven build output
+/target/
+
+# jpackage output
+/releases/
+*.pkg
+*.dmg
+*.exe
+*.msi
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Mac-specific
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows-specific
+Desktop.ini
+$RECYCLE.BIN/
+
+# Java files
+*.class
+*.jar
+
+# Runtime image
+/my-runtime/
