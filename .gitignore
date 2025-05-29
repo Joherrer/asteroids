@@ -1,0 +1,21 @@
+# Maven build output
+target/
+*.class
+*.jar
+
+# Runtime created with Jlink
+runtime/
+
+# JPackage and release output
+releases/
+*.pkg
+*.dmg
+*.exe
+*.msi
+
+# Logs
+*.log
+
+# IDEs and project files
+.idea/
+.vscode/
